@@ -17,7 +17,7 @@ A simple and customizable password generator built using HTML, CSS, and JavaScri
 
 ## 🚀 Demo
 
-[Click here to try the live demo](https://krushna001m.github.io/Password-Generator/)
+[Click here to try the live demo](https://v0-password-generator-project-one.vercel.app/)
 
 
 ## 🛠️ Technologies Used

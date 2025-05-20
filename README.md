@@ -3,6 +3,14 @@
 
 A simple and customizable password generator built using HTML, CSS, and JavaScript. This project allows users to generate strong, secure passwords with different combinations of characters including uppercase, lowercase, numbers, and symbols.
 
+
+## 🚀 Demo
+
+[Click here to try the live demo](https://v0-password-generator-project-one.vercel.app/)
+
+## 🎯 Purpose of Project
+Password Generator is a lightweight web application built to help users create strong, secure, and customizable passwords instantly. It enhances online security by allowing users to generate passwords with specific criteria such as length, inclusion of uppercase letters, numbers, and special characters — reducing the risk of using weak or reused passwords.
+
 ## 🌟 Features
 
 - Generate strong random passwords
@@ -14,10 +22,6 @@ A simple and customizable password generator built using HTML, CSS, and JavaScri
   - Symbols
 - Copy generated password to clipboard
 - User-friendly interface
-
-## 🚀 Demo
-
-[Click here to try the live demo](https://v0-password-generator-project-one.vercel.app/)
 
 
 ## 🛠️ Technologies Used

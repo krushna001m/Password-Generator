@@ -67,4 +67,7 @@ Inspired by common password manager tools and built for learning and practice pu
 
 Made with ❤️ by [Krushna Mengal](https://github.com/krushna001m)
 
-```
+## 👨‍💻 Author
+
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)

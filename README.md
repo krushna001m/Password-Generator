@@ -1,5 +1,5 @@
 
-# 🔐 Password 
+# 🔐 Password Generator
 
 A simple and customizable password generator built using HTML, CSS, and JavaScript. This project allows users to generate strong, secure passwords with different combinations of characters including uppercase, lowercase, numbers, and symbols.
 
